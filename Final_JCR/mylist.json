@@ -1,0 +1,14 @@
+{
+    "url": [
+        "https://johnsapp.azurewebsites.net/myjson.json",
+        "https://johnsapp.azurewebsites.net/fakejson.json",
+        "http://sp18-cpsc-24500-001.azurewebsites.net/my-information.json",
+        "http://sp18-cpsc-24500-001.azurewebsites.net/my-information-02.json",
+        "https://bglewis.azurewebsites.net/BillGillespie.json",
+        "https://bglewis.azurewebsites.net/superhero.json",
+        "https://rreid1.azurewebsites.net/MyInfo.json",
+        "https://rreid1.azurewebsites.net/CharacterInfo.json",
+        "https://danielandreiwobjecto2018.azurewebsites.net/superhero.json",
+        "http://danielandreiwobjecto2018.azurewebsites.net/danielandreiwnewinfo.json"
+    ]    
+}
